@@ -1,0 +1,1 @@
+uc_on_factors_loaded("Radiation-Exposure", ["coulomb/kilogram",0.00216204,"millicoulomb/kilogram",2.16204,"microcoulomb/kilogram",2162.04,"roentgen",8.38,"tissue roentgen",8.38,"parker",8.38,"rep",8.38])

@@ -1,0 +1,1 @@
+uc_on_factors_loaded("Electric_Field_Strength", ["volt/meter",1E+7,"kilovolt/meter",10000,"kilovolt/centimeter",100,"volt/centimeter",1E+5,"millivolt/meter",1E+10,"microvolt/meter",1E+13,"kilovolt/inch",254,"volt/inch",2.54E+5,"volt/mil",254,"abvolt/centimeter",1E+13,"statvolt/centimeter",333.5646048,"statvolt/inch",847.2540962,"newton/coulomb",1E+7])

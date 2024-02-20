@@ -1,0 +1,1 @@
+uc_on_factors_loaded("Electric_Conductance", ["siemens",10,"megasiemens",0.00001,"kilosiemens",0.01,"millisiemens",10000,"microsiemens",1E+7,"ampere/volt",10,"mho",10,"gemmho",1E+7,"micromho",1E+7,"abmho",1E-8,"statmho",8.99E+12,"Quantized Hall conductance",2.5812805626523E+5])

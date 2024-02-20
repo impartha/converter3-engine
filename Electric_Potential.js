@@ -1,0 +1,1 @@
+uc_on_factors_loaded("Electric_Potential", ["volt",1,"watt/ampere",1,"abvolt",1E+8,"EMU of electric potential",1E+8,"statvolt",0.003335640484669,"ESU of electric potential",0.003335640484669])

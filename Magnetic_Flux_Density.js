@@ -1,0 +1,1 @@
+uc_on_factors_loaded("Magnetic_Flux_Density", ["tesla",100,"weber/square meter",100,"weber/square centimeter",0.01,"weber/square inch",0.064516,"maxwell/square meter",100,"maxwell/square centimeter",1E+6,"maxwell/square inch",6.4516E+6,"gauss",1E+6,"line/square centimeter",1E+6,"line/square inch",6.4516E+6,"gamma",1E+11])

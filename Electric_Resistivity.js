@@ -1,0 +1,1 @@
+uc_on_factors_loaded("Electric_Resistivity", ["ohm meter",1E+11,"ohm centimeter",1E+13,"ohm inch",3.937007874E+12,"microhm centimeter",1E+19,"microhm inch",3.937007874E+18,"abohm centimeter",1E+22,"statohm centimeter",11.12653456,"circular mil ohm/foot",6.015304934E+19])

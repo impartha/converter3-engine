@@ -1,0 +1,1 @@
+uc_on_factors_loaded("Illumination", ["lux",1E+16,"meter-candle",1E+16,"centimeter-candle",1E+12,"foot-candle",9.29030400000839E+14,"flame",2.3225760000021E+14,"phot",1E+12,"nox",1E+19,"candela steradian/square meter",1E+16,"lumen/square meter",1E+16,"lumen/square centimeter",1E+12,"lumen/square foot",9.29030400000839E+14,"watt/square centimeter (at 555 nm)",1.46412884333821E+9])

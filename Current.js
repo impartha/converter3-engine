@@ -1,0 +1,1 @@
+uc_on_factors_loaded("Current", ["ampere",1E+9,"kiloampere",1E+6,"milliampere",1E+12,"biot",1E+8,"abampere",1E+8,"EMU of current",1E+8,"statampere",2.99792453684314E+18,"ESU of current",2.99792453684314E+18,"CGS e.m. unit",1E+8,"CGS e.s. unit",2.99792453684314E+18])

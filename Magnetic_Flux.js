@@ -1,0 +1,1 @@
+uc_on_factors_loaded("Magnetic_Flux", ["weber",1,"milliweber",1000,"microweber",1E+6,"volt second",1,"unit pole",7.957747154594E+6,"megaline",100,"kiloline",1E+5,"line",1E+8,"maxwell",1E+8,"tesla square meter",1,"tesla square centimeter",10000,"gauss square centimeter",1E+8,"Magnetic flux quantum",4.8359767031852E+14])

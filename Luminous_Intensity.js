@@ -1,0 +1,1 @@
+uc_on_factors_loaded("Luminous_Intensity", ["candle (international)",100,"candle (German)",95,"candle (UK)",96,"decimal candle",100,"candle (pentane)",100,"pentane candle (10 candle power)",10,"hefner candle",111.1111111,"carcel unit",10.40582726,"bougie decimal",100,"lumen/steradian",100])

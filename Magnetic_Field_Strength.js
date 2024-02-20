@@ -1,0 +1,1 @@
+uc_on_factors_loaded("Magnetic_Field_Strength", ["ampere/meter",1,"ampere turn/meter",1,"kiloampere/meter",0.001,"oersted",0.01256637061436])

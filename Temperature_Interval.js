@@ -1,0 +1,1 @@
+uc_on_factors_loaded("Temperature_Interval", ["kelvin",1,"degree Celsius",1,"degree centigrade",1,"degree Fahrenheit",1.8,"degree Rankine",1.8,"degree Reaumur",0.8])

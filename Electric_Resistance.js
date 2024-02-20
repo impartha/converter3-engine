@@ -1,0 +1,1 @@
+uc_on_factors_loaded("Electric_Resistance", ["ohm",1E+13,"megohm",1E+7,"microhm",1E+19,"volt/ampere",1E+13,"reciprocal siemens",1E+13,"abohm",1E+22,"EMU of resistance",1E+22,"statohm",11.1265002973001,"ESU of resistance",11.1265002973001,"Quantized Hall resistance",3.8740461439806E+8])

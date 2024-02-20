@@ -1,0 +1,1 @@
+uc_on_factors_loaded("Temperature", ["kelvin:3",2,1,0,"degree Celsius:3",2,-272.15,-273.15,"degree Fahrenheit:3",2,-457.87,-459.67,"degree Rankine:3",2,1.8,0,"degree Reaumur:3",2,-217.72,-218.52,"Triple point of water:3",2,0.0036608581051398,0])

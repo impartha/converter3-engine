@@ -1,0 +1,1 @@
+uc_on_factors_loaded("Magnetomotive_Force", ["ampere turn",1000,"kiloampere turn",1,"milliampere turn",1E+6,"abampere turn",100,"gilbert",1256.637062])

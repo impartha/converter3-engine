@@ -1,0 +1,1 @@
+uc_on_factors_loaded("Thermal_Resistance", ["kelvin/watt",1,"degree Fahrenheit hour/Btu (IT)",0.52752792631,"degree Fahrenheit hour/Btu (th)",0.52717513224445,"degree Fahrenheit second/Btu (IT)",1899.100534716,"degree Fahrenheit second/Btu (th)",1897.83047608])

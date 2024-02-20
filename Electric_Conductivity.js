@@ -1,0 +1,1 @@
+uc_on_factors_loaded("Electric_Conductivity", ["siemens/meter",1,"picosiemens/meter",1E+12,"mho/meter",1,"mho/centimeter",0.01,"abmho/meter",1E-9,"abmho/centimeter",1E-11,"statmho/meter",8.987524324E+11,"statmho/centimeter",8.987524324E+9])

@@ -1,0 +1,1 @@
+uc_on_factors_loaded("Linear_Current_Density", ["ampere/meter",10000,"ampere/centimeter",100,"ampere/inch",254,"abampere/meter",1000,"abampere/centimeter",10,"abampere/inch",25.4,"oersted",125.6637062,"gilbert/centimeter",125.6637062])

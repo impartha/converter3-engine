@@ -1,0 +1,1 @@
+uc_on_factors_loaded("Digital_Image_Resolution", ["dot/meter",3.93700787401575E+12,"dot/millimeter",3.93700787401575E+9,"dot/inch",1E+11,"pixel/inch",1E+11])

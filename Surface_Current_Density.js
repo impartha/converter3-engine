@@ -1,0 +1,1 @@
+uc_on_factors_loaded("Surface_Current_Density", ["ampere/square meter",10,"ampere/square centimeter",0.001,"ampere/square inch",0.0064516,"ampere/square mil",6.4516E-9,"ampere/cicular mil",5.067074792E-9,"abampere/square centimeter",0.0001])

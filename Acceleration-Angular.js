@@ -1,0 +1,1 @@
+uc_on_factors_loaded("Acceleration-Angular", ["radian/square second",100,"radian/square minute",3.6E+5,"revolution/square second",15.91549431,"revolution/minute/second",954.9296586,"revolution/square minute",57295.77952])
